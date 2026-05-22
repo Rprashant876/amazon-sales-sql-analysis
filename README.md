@@ -78,21 +78,13 @@ The goal is to extract meaningful business insights to support decisions in reve
 | **Operations & Inventory** | Slow-moving products? Seasonal trends? Premium low-volume items? |
 | **Investor Presentation** | Yearly growth, region % share, category profit contribution, risk segments |
 
-### 🔴 Challenge / Expert Level
-- Views, Stored Procedures, Triggers
-- Anomaly detection (negative profit orders)
-- Single dashboard query combining all KPIs
-
----
 
 ## 💡 Key Business Insights
 
-> *(To be updated after query execution)*
-
-- 📌 **[Insight 1]** — e.g., Electronics generates highest revenue but has lowest profit margin
-- 📌 **[Insight 2]** — e.g., UPI is the most frequently used payment method
-- 📌 **[Insight 3]** — e.g., High discounts (>30%) do not always lead to higher quantity sold
-- 📌 **[Insight 4]** — e.g., North America contributes the highest revenue share
+- 📌  Beauty Product category generated highest revenue but lowest profit margin
+- 📌  wallet (Cash) is the most frequently used payment method
+- 📌  Books category has highest average profit margin
+- 📌  Middle East contributes the highest revenue share
 
 ---
 
@@ -114,7 +106,7 @@ The goal is to extract meaningful business insights to support decisions in reve
 amazon-sales-sql-analysis/
 │
 ├── amazon_sale_dataset.csv     # Raw dataset (50,000 records)
-├── analysis.sql                # All 70+ SQL queries with comments
+├── script.sql                # All 70+ SQL queries with comments
 └── README.md                   # Project documentation (this file)
 ```
 
@@ -140,8 +132,8 @@ amazon-sales-sql-analysis/
 
 ## 📬 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🐙 [GitHub](https://github.com/yourusername)
+- 💼 [LinkedIn](www.linkedin.com/in/rprashant876)
+- 🐙 [GitHub](https://github.com/Rprashant876)
 
 ---
 
