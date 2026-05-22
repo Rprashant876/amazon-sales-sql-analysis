@@ -1,13 +1,7 @@
 # 🛒 Amazon Sales Data — SQL Analysis Project
-
-![SQL](https://img.shields.io/badge/Language-SQL-blue?style=flat-square)
-![Dataset](https://img.shields.io/badge/Dataset-50%2C000%20Orders-orange?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
-![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-purple?style=flat-square)
-
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project performs end-to-end SQL analysis on a real-world Amazon sales dataset containing **50,000 orders** across **2 years (2022–2023)**. The analysis covers 70+ business queries ranging from basic aggregations to advanced window functions and real-world case studies.
 
