@@ -107,7 +107,7 @@ amazon-sales-sql-analysis/
 │
 ├── amazon_sale_dataset.csv     # Raw dataset (50,000 records)
 ├── script.sql                # All 70+ SQL queries with comments
-└── README.md                   # Project documentation (this file)
+└── README.md                   # Project documentation 
 ```
 
 ---
@@ -135,6 +135,3 @@ amazon-sales-sql-analysis/
 - 💼 [LinkedIn](www.linkedin.com/in/rprashant876)
 - 🐙 [GitHub](https://github.com/Rprashant876)
 
----
-
-> ⭐ If you found this project helpful, please consider giving it a star on GitHub!
