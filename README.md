@@ -85,7 +85,12 @@ The goal is to extract meaningful business insights to support decisions in reve
 - 📌  wallet (Cash) is the most frequently used payment method
 - 📌  Books category has highest average profit margin
 - 📌  Middle East contributes the highest revenue share
-
+- 📌  Customer use UPI More to by Product after discounted
+- 📌  There is Increace in sale after Discout on Product
+- 📌  Beauty Product_category seem to be High Stock Movement
+- 📌  Electronic Product_category Identifies as Underperfroming categories
+- 📌  North America Region need More Marketing Budget as the Growth is Decreasing over year
+- 📌  Beauty product_category give High Revenue But Low Profit Margin
 ---
 
 ## 🛠️ Tools & Technologies
